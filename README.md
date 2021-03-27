@@ -2,7 +2,7 @@
 Created a simple signin-signup repo using html, css, js and php. Backend can be transferred to existing personal projects
 
 Sign-up - error handlers for:
-Markup : * Empty input
+* Empty input
 * Username must alpha-numeric
 * Valid email
 * Existing email
@@ -10,7 +10,7 @@ Markup : * Empty input
 * Correct repeat password
 
 Sign-in - error handlers for:
-Markup : * Empty input
+* Empty input
 * Correct username
 * Correct password
 
