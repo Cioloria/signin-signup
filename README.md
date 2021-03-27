@@ -14,11 +14,11 @@ Sign-in - error handlers for:
 * Correct username
 * Correct password
 
-##Contributing
+## Contributing ##
 Pull requests are welcome.
 
-##Acknowledgement
+## Acknowledgement ##
 User interface used inspired by this template https://colorlib.com/etc/lf/Login_v3/index.html
 
-##Contributors
+## Contributors ##
 shinz000 - https://github.com/shinz000
