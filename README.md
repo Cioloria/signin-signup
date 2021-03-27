@@ -21,4 +21,4 @@ Pull requests are welcome.
 User interface used inspired by this template https://colorlib.com/etc/lf/Login_v3/index.html
 
 ## Contributors ##
-shinz000 - https://github.com/shinz000
+[shinz000](https://github.com/shinz000)
