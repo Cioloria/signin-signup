@@ -4,15 +4,15 @@ Created a simple signin-signup repo using html, css, js and php. Backend can be 
 Sign-up - error handlers for:
 * Empty input
 * Username must alpha-numeric
-* Valid email
+* Invalid email
 * Existing email
 * Existing username
-* Correct repeat password
+* Incorrect repeat password
 
 Sign-in - error handlers for:
 * Empty input
-* Correct username
-* Correct password
+* Incorrect username
+* incorrect password
 
 ## Contributing ##
 Pull requests are welcome.
@@ -21,4 +21,4 @@ Pull requests are welcome.
 User interface used inspired by this template https://colorlib.com/etc/lf/Login_v3/index.html
 
 ## Contributors ##
-[shinz000](https://github.com/shinz000)
+[Sheena Aragon](https://github.com/shinz000)
