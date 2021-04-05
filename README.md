@@ -3,7 +3,7 @@ Created a simple signin-signup repo using html, css, js and php. Backend can be 
 
 Sign-up - error handlers for:
 * Empty input
-* Username must alpha-numeric
+* Username must be alpha-numeric
 * Invalid email
 * Existing email
 * Existing username
